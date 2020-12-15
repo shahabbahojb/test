@@ -1,0 +1,6 @@
+int a;
+a=10;
+int b=30;
+int c;
+c=a+b;
+cout<<c;
